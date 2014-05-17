@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document by Ananti (ananti.sunny@gmail.com)*/
+
+
+@font-face
+{
+font-family: monotypeFont;
+	src: url('font/MTCORSVA.TTF');
+}
+
+@font-face
+{
+font-family: gothicFont;
+	src: url('font/GOTHICB.TTF');
+}
+
+.monotypefont {	
+	font-family: monotypeFont;
+}
+.gothicfont {	
+	font-family: gothicFont;
+}
+
+.biggest{
+	font-size: 20px;
+}
+
+.bigger {
+	font-size: 16px;
+}
+
+.big {
+	font-size: 14px;
+}
+
+.normal {
+	font-size: 12px;
+}
+
+.small {
+	font-size: 11px;
+}
+
+.white {
+	color: #fff;
+}
+
+.green {
+	color: #a3ac7d;
+}
+
+.pink {
+	color: #ed7d7c;	
+}
+
+.darkpink {
+	color: rgb(247, 75, 73);
+}
+
+.grey {
+	color: #666;
+}
+
+.darkyellow {
+	color: rgba(148, 115, 12, 0.8);
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.bolder {
+	font-weight: bolder;
+}
+
+.underline {
+	text-decoration:underline;
+}
+
+.center {
+	text-align: center;
+}
+
+.italic {
+	font-style:italic
+}

@@ -1,0 +1,31 @@
+@media screen and (max-width: 570px) {
+	#wrapmenu {
+		height: 150px;
+	}
+	
+	ul#menu {
+		width: 270px;
+		padding-left: 0px;
+	}
+	
+	ul#menu li a {
+		float: left;
+	}
+	
+	#wrapbanner {
+		margin-top: 30px;		
+	}
+	
+	#banner {
+		width: auto;
+	}
+	
+	#wrap {
+		width: auto;
+		min-height: 1900px;
+	}
+	
+	.foodcontent {
+		margin-top: 20px;
+	}
+}
